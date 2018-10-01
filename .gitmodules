@@ -1,0 +1,3 @@
+[submodule "colab"]
+	path = colab
+	url = git@github.com:plushvoxel/Project-Lernende-Agenten-colab.git
